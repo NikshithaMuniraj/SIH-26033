@@ -38,7 +38,7 @@ How it addresses the problem
 - Allows consumers to purchase fresh produce at more affordable prices.
 - Connects farmers with retailers, restaurants, supermarkets, and bulk buyers.
 - Reduces post-harvest losses through demand prediction and efficient delivery.
-- 
+  
 Innovation and uniqueness
 - AI-based demand forecasting.
 - Direct farmer-to-consumer and farmer-to-business transactions.
@@ -46,7 +46,7 @@ Innovation and uniqueness
 - Smart transport and route planning.
 - Multilingual interface for rural accessibility.
 - Group ordering and collective selling through FPOs.
-- 
+  
 ## Technical Approach
 
 Technologies to be used
@@ -89,7 +89,7 @@ Potential challenges and risks
 - Transportation costs may reduce profits.
 - Maintaining crop quality during transportation can be challenging.
 - Demand forecasting may be inaccurate when historical data is limited.
-- 
+  
 Strategies to overcome challenges
 - Provide a simple interface with Tamil and other regional languages.
 - Use a mobile-friendly design and low-bandwidth features.
